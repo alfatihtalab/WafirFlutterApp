@@ -7,7 +7,7 @@ See also:
 
 - [The official Wafir API docs](http://api.wafirhero.com/redoc), which showcases how to use `api`
 
-- [Sample APK APP](https://drive.google.com/file/d/1c1vg-mqmnjphnGhfup9tGfU33ncKWqPk/view?usp=sharing](https://drive.google.com/file/d/1aGdIosoLbi3K7RiSJzUVUvYXNeu5iCBT/view?usp=drive_link))
+- [Sample APK APP](https://drive.google.com/file/d/1aGdIosoLbi3K7RiSJzUVUvYXNeu5iCBT/view?usp=drive_link)
 
 
 ## Features
@@ -17,6 +17,8 @@ See also:
 - Advance UI/UX
 - Order Tracking.
 - Anonymous login, Google login and Email/Password login
+- Advanced Cart
+- 
 
 ## Showcase
 - Add your APIKey under the directory: /lib/utilties/constants.dart
