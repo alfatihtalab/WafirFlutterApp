@@ -37,5 +37,3 @@ See also:
 - Order Tracking.
 
 ## Showcase
-- Add your APIKey under the directory: /lib/utilties/constants.dart
-- Name it as the flowing dart code
