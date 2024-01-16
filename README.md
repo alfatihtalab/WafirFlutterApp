@@ -5,7 +5,7 @@ A Flutter app presenting a list of nearest restaurants in a master view, with a 
 
 See also:
 
-- [The official Wafir API docs](http://api.wafirhero.com/redoc), which showcases how to use `api`
+- [The official Wafir API docs](http://api.wafirhero.com/redoc), which showcases how to use the `api`
 
 - [Sample APK APP](https://drive.google.com/file/d/1aGdIosoLbi3K7RiSJzUVUvYXNeu5iCBT/view?usp=drive_link)
 
