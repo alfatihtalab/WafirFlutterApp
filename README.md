@@ -1,9 +1,10 @@
 # Wafir
 ![wafir-background](https://github.com/alfatihtalab/WafirFlutterApp/assets/35189369/43ea8b61-817b-49c4-87f7-6771d29464d4)
 
+## About:
 A Flutter app presenting a list of nearest restaurants in a master view, with a detail view of each restaurant including menus and items.
 
-See also:
+### See also:
 
 - [The official Wafir API docs](http://api.wafirhero.com/redoc), which showcases how to use the `api`
 
