@@ -37,3 +37,11 @@ See also:
 - Order Tracking.
 
 ## Showcase
+
+
+## For more info
+
+_@alfatihtalab_ |
+[Linkedin](https://www.linkedin.com/in/alfatihtalab/) |
+[Twitter](https://twitter.com/alfatihtalab) |
+[Stackoverflow](https://stackoverflow.com/users/9351052/alfatih-eltayeb)
