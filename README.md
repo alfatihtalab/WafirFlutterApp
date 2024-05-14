@@ -31,7 +31,7 @@ A Flutter app presenting a list of nearest restaurants in a master view, with a 
 - Integration with Maps: Use mapping services to provide accurate delivery estimates, display restaurant locations, and guide delivery drivers.
 - Multi-Language Support: Cater to a diverse user base by offering the app in multiple languages.
 
-## Flutte Techs
+## Flutter Techs
 - OAuth 2. 
 - Business Logic components state management
 - Advance UI/UX
