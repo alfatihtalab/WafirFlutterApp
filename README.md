@@ -27,7 +27,7 @@ A Flutter app presenting a list of nearest restaurants in a master view, with a 
 - User Loyalty Programs: Implement a loyalty program to reward frequent users with discounts, points, or exclusive offers.
 - Social Sharing: Integrate social media sharing options to allow users to share their favorite meals or promotions with friends and family.
 - User Support and Feedback: Include a customer support feature for users to get assistance, report issues, or provide feedback.
-- Driver App: If your app involves in-house delivery, create a separate app for drivers with features like order acceptance, navigation, and order completion updates.
+- Driver App: Involves in-house delivery, a separate app for drivers with features like order acceptance, navigation, and order completion updates.
 - Integration with Maps: Use mapping services to provide accurate delivery estimates, display restaurant locations, and guide delivery drivers.
 - Multi-Language Support: Cater to a diverse user base by offering the app in multiple languages.
 
